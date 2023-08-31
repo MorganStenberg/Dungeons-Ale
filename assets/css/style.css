@@ -8,5 +8,19 @@
 
 body {
     font-family: 'Raleway', sans-serif;
+    color: #d3d3d3;
     
+}
+
+/* Header */
+header {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 0.5rem;
+
+}
+
+header a {
+    text-decoration: none;
+    color:#ff5733
 }
