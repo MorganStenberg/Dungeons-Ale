@@ -64,7 +64,8 @@ nav {
 
 .nav-toggle-label {
     font-size: 150%;
-    color:#ff5733
+    color:#ff5733;
+    margin-right: 5px;
 }
 
 .active {
