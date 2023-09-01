@@ -31,12 +31,13 @@ header a {
 #logo {
     text-transform: uppercase;
     letter-spacing: 2px;
+    padding-top: 0.25rem;
 }
 
 #menu {
     list-style-type: none;
     letter-spacing: 2px;
-    padding-top: 0.5em;
+    padding-top: 0.5rem;
     font-size: 115%;
     }
 
@@ -65,6 +66,7 @@ nav {
     font-size: 150%;
     color:#ff5733;
     margin-right: 5px;
+    padding-top: 0.5rem;
 }
 
 .active {
@@ -94,7 +96,7 @@ nav {
 
 /*Media query laptops and larger (992px)*/
 @media screen and (min-width: 992px) {
-    
+
 }
 
 /*Media query for desktop (1200px)*/
