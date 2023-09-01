@@ -9,7 +9,9 @@
 body {
     font-family: 'Raleway', sans-serif;
     color: #d3d3d3;
-    
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 /* Header */
@@ -37,6 +39,9 @@ header a {
 #menu li {
     margin-bottom: 0.75em;
 }
+
+/* Navbar dropdown toggle */ 
+
 
 .active {
     border-bottom: 1px solid #ff5733
