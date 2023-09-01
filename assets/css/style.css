@@ -42,7 +42,7 @@ header a {
     }
 
 #menu li {
-    margin-bottom: 0.75em;
+    margin-bottom: 0.5rem;
 }
 
 /* Navbar dropdown toggle - credit to * CI LMS Love Running LRFX101 */ 
@@ -92,6 +92,13 @@ nav {
         display: none;
     }
     
+    #logo {
+        font-size: 225%;
+    }
+
+    #menu {
+        font-size: 125%;
+    }
 }
 
 /*Media query laptops and larger (992px)*/
