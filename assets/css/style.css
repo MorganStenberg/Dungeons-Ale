@@ -17,6 +17,11 @@ body {
 /* Header */
 header {
     background-color: #ffffff;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -40,8 +45,27 @@ header a {
     margin-bottom: 0.75em;
 }
 
-/* Navbar dropdown toggle */ 
+/* Navbar dropdown toggle - credit to * CI LMS Love Running LRFX101 */ 
+nav {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    display: none;
+    top: 100%;
+}
 
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 150%;
+    color:#ff5733
+}
 
 .active {
     border-bottom: 1px solid #ff5733
