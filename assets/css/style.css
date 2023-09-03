@@ -12,6 +12,8 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    max-width: 1920px;
+    margin: 0 auto;
 }
 
 /* Header */
