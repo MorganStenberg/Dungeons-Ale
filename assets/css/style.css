@@ -46,9 +46,7 @@ header a {
 
 /* Navbar dropdown toggle - credit to * CI LMS Love Running LRFX101 */ 
 nav {
-    position: absolute;
     width: 100%;
-    left: 0;
     display: none;
     top: 100%;
 }
@@ -85,7 +83,6 @@ nav {
     
     nav {
         display: block;
-        position: relative;
         width: fit-content;
         padding-right: 12px;
     }
