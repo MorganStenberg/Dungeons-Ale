@@ -19,6 +19,8 @@ body {
 /* Header */
 header {
     background-color: #ffffff;
+    position: fixed;
+    z-index: 10;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -48,6 +50,8 @@ header a {
 
 /* Navbar dropdown toggle - credit to * CI LMS Love Running LRFX101 */ 
 nav {
+    position: absolute;
+    background-color: #ffffff;
     width: 100%;
     display: none;
     top: 100%;
@@ -96,6 +100,7 @@ nav {
 
 #welcome-about-us {
     height: 500px;
+    color:#ff5733; 
 }
 
 /*Media query for tablets and larger (768px)*/
