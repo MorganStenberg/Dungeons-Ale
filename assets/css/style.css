@@ -207,14 +207,30 @@ footer {
 /* Styling for events */ 
 
 #events-section {
-    padding-top: 20px;
+    padding: 30px 20px 0 20px;
+    text-align: center;
+}
+
+#events-section h3 {
+    color: #3a3a3a;
+    font-size: 150%;
 }
 
 .events {
     border: 2px solid #ff5733;
     border-radius: 10px;
-    margin: 10px auto;
+    margin: 20px auto;
     padding-top: 15px;
+    text-align: center;
+}
+
+.events p {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.events h4 {
+    color: #3a3a3a;
 }
 
 
