@@ -156,6 +156,29 @@ footer {
     color: #3a3a3a;
 }
 
+/* styling for games page */ 
+
+#games-hero-outer {
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+
+#games-hero-image {
+    height: 500px;
+    width: 100%;
+    background: url(../images/hero_image_board.jpg) no-repeat center center;
+}
+
+#text-games-image {
+    position: absolute;
+    bottom: 50%;
+    right: 45%;
+    color:#ff5733; 
+    padding-left: 10px;
+    font-size: 200%;
+}
+
 
 /*Media query for large phones(378px)*/
 @media screen and (min-width: 378px) {
