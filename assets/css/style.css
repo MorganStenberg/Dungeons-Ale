@@ -134,6 +134,7 @@ footer {
 
 #address-footer {
     text-align: center;
+    padding-top: 15px;
     padding-bottom: 15px;
 }
 
@@ -141,6 +142,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    padding-top: 15px;
     padding-bottom: 15px;
     font-size: 125%;
     color: #d3d3d3;
@@ -183,6 +185,16 @@ footer {
 /*Media query laptops and larger (992px)*/
 @media screen and (min-width: 992px) {
 
+    footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    #social-media-links a {
+        padding-right: 15px;
+        font-size: 150%;
+    }
 }
 
 /*Media query for desktop (1200px)*/
