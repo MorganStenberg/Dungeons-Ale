@@ -188,8 +188,8 @@ footer {
 }
 
 .our-games p {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .our-games h3 {
@@ -197,6 +197,9 @@ footer {
 }
 #list-of-games {
     list-style-type: none;
+}
+#list-of-games li {
+    padding-top: 5px;
 }
 
 /*Media query for large phones(378px)*/
