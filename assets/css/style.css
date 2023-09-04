@@ -98,6 +98,8 @@ nav {
 
 }
 
+/* Welcome and about us section */ 
+
 #welcome-about-us {
     
     color:#ff5733; 
@@ -111,8 +113,31 @@ nav {
 
 #about-us-text p {
     padding: 15px 15px;
-
 }
+
+/* Footer */ 
+
+footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-top: solid 2px #ff5733
+}
+
+#opening-hours {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+#address-footer {
+    text-align: center;
+}
+
+
+
 
 /*Media query for tablets and larger (768px)*/
 @media screen and (min-width: 700px) {
