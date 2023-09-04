@@ -194,13 +194,29 @@ footer {
 
 .our-games h3 {
     padding-bottom: 10px;
+    color: #3a3a3a;
 }
 #list-of-games {
     list-style-type: none;
 }
 #list-of-games li {
     padding-top: 5px;
+    font-size: 125%;
 }
+
+/* Styling for events */ 
+
+#events-section {
+    padding-top: 20px;
+}
+
+.events {
+    border: 2px solid #ff5733;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding-top: 15px;
+}
+
 
 /*Media query for large phones(378px)*/
 @media screen and (min-width: 378px) {
