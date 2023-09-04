@@ -16,6 +16,10 @@ body {
     margin: 0 auto;
 }
 
+main {
+    margin-top: 78px;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -153,6 +157,13 @@ footer {
 }
 
 
+/*Media query for large phones(378px)*/
+@media screen and (min-width: 378px) {
+
+    main {
+    margin-top: 41px;
+    }
+}
 
 /*Media query for tablets and larger (768px)*/
 @media screen and (min-width: 700px) {
@@ -179,6 +190,10 @@ footer {
 
     #menu {
         font-size: 125%;
+    }
+
+    main {
+        margin-top: 46px;
     }
 }
 
