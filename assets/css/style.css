@@ -134,8 +134,21 @@ footer {
 
 #address-footer {
     text-align: center;
+    padding-bottom: 15px;
 }
 
+#social-media-links {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-bottom: 15px;
+    font-size: 125%;
+    color: #d3d3d3;
+}
+
+#social-media-links a {
+    color: #3a3a3a;
+}
 
 
 
