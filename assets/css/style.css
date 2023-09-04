@@ -52,7 +52,7 @@ header a {
     margin-bottom: 0.5rem;
 }
 
-/* Navbar dropdown toggle - credit to * CI LMS Love Running LRFX101 */ 
+/* Navbar dropdown toggle - credit to * Coding Institute LMS Love Running Walkthrough LRFX101 */ 
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -217,12 +217,17 @@ footer {
     font-size: 150%;
 }
 
+#events-container {
+   display: flex;
+   flex-flow: row wrap;
+}
 .events {
     border: 2px solid #ff5733;
     border-radius: 10px;
     margin: 20px auto;
     padding-top: 15px;
     text-align: center;
+    flex: 0 1 200px;
 }
 
 .events p {
