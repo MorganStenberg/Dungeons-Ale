@@ -139,4 +139,7 @@ nav {
 /*Media query for desktop (1200px)*/
 @media screen and (min-width: 1200px) {
 
+    header {
+        max-width: 1920px;
+    }
 }
