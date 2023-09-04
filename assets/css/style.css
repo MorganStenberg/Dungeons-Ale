@@ -179,6 +179,25 @@ footer {
     font-size: 200%;
 }
 
+/* Our games section */ 
+
+.our-games {
+    padding: 20px 20px 0 20px;
+    font-size: 125%;
+    text-align: center;
+}
+
+.our-games p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.our-games h3 {
+    padding-bottom: 10px;
+}
+#list-of-games {
+    list-style-type: none;
+}
 
 /*Media query for large phones(378px)*/
 @media screen and (min-width: 378px) {
