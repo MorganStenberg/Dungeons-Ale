@@ -256,6 +256,15 @@ footer {
     background: url(../images/contact_dice_1920.jpg) no-repeat center center;
 }
 
+#text-contact-image {
+    position: absolute;
+    bottom: 50%;
+    right: 35%;
+    color:#ff5733; 
+    padding-left: 10px;
+    font-size: 200%;
+}
+
 
 /* book a table form * Credit to W3 school - how to contact form */ 
 
