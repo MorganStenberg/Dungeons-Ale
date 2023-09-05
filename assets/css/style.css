@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    color: #d3d3d3;
+    color: #3a3a3a;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -108,9 +108,7 @@ nav {
 
 /* Welcome and about us section */ 
 
-#welcome-about-us {
-    
-    color:#ff5733; 
+#welcome-about-us { 
     text-align: center;
     padding: 20px;
 }
@@ -231,7 +229,7 @@ footer {
     border: 2px solid #ff5733;
     border-radius: 10px;
     margin: 20px auto;
-    padding-top: 15px;
+    padding: 15px 10px;
     text-align: center;
     flex: 0 1 220px;
     
