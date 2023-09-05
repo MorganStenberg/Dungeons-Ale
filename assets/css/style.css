@@ -107,7 +107,6 @@ nav {
 #text-hero-image {
     position: absolute;
     bottom: 62%;
-    color:#3a3a3a;
     padding-left: 10px;
     font-size: 125%;
     font-weight: 600;
@@ -208,7 +207,6 @@ footer {
 
 #our-games-container h2 {
     padding-bottom: 5px;
-    color: #3a3a3a;
     text-decoration: underline;
     font-size: 1.75rem;
 }
@@ -230,7 +228,6 @@ footer {
 }
 
 #events-section h3 {
-    color: #3a3a3a;
     font-size: 1.5rem;
     text-decoration: underline;
 }
@@ -254,10 +251,6 @@ footer {
     padding-bottom: 5px;
 }
 
-.events h4 {
-    color: #3a3a3a;
-}
-
 /* contact us page - */ 
 
 #booktable-background-image {
@@ -274,7 +267,6 @@ footer {
     padding-left: 10px;
     font-size: 200%;
 }
-
 
 /* book a table form * Credit to W3 school - how to contact form */ 
 
@@ -313,9 +305,6 @@ footer {
 .submit-button:hover {
     background-color: #ff5733;
 }
-
-
-
 
 /*Media query for large phones(378px)*/
 @media screen and (min-width: 378px) {
@@ -371,7 +360,6 @@ footer {
     #text-hero-image h2 {
         max-width: 100%;
     }
-
 }
 
 /*Media query laptops and larger (992px)*/
