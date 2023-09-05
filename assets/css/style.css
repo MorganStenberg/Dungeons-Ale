@@ -101,16 +101,16 @@ nav {
 
 #text-hero-image {
     position: absolute;
-    bottom: 60%;
+    bottom: 62%;
     color:#ff5733;
     padding-left: 10px;
     font-size: 125%;
-    max-width: 75%;
     font-weight: 600;
 }
 
 #text-hero-image h2 {
     font-size: 200%;
+    max-width: 60%;
 }
 
 /* Welcome and about us section */ 
@@ -324,11 +324,6 @@ footer {
     .nav-toggle-label {
         padding-top: 0.35rem;
     }
-
-    #text-hero-image {
-        max-width: 100%;
-    }
-
 }
 
 /*Media query for tablets and larger (768px)*/
@@ -365,6 +360,11 @@ footer {
     #text-contact-image {
         right: 50%;
     }
+    
+    #text-hero-image h2 {
+        max-width: 100%;
+    }
+
 }
 
 /*Media query laptops and larger (992px)*/
