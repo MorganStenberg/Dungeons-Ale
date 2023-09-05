@@ -33,16 +33,19 @@
     <main>
 
         <!-- Book a table form -->
-        <section>
+        <section id="form-container">
             <form method="post" action="https://formdump.codeinstitute.net/" target="_blank">
                 <h2>Reserve a table</h2>
                 <label for="fullname">Your full name</label>
                 <input type="text" id="fullname" name="fullname" class="input-form" required>
+
                 <label for="email">Email</label>
                 <input type="text" id="email" name="email_address" class="input-form" required>
+
                 <label for="guests" >How many guests?</label>
                 <input type="number" id="guests" name="guests" min="2" max="8" class="input-form"> 
-                <input type="submit" value="submit" class="submit-button">
+                
+                <input type="submit" value="Submit" class="submit-button">
             </form>
 
         </section>

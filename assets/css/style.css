@@ -242,11 +242,35 @@ footer {
     color: #3a3a3a;
 }
 
-/* contact us page */ 
+/* contact us page - book a table form */ 
+/* Credit to W3 school - how to contact form*/ 
 
+#form-container {
+    background-color: #d3d3d3;
+    padding: 20px;
+    color: #3a3a3a;
+}
 
-/* book a table form */ 
+.input-form {
+    width: 90%;
+    padding: 10px;
+    border: 2px solid #ff5733;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 12px;
 
+}
+
+.submit-button {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.submit-button:hover {
+    background-color: #ff5733;
+}
 
 
 
