@@ -164,13 +164,13 @@ footer {
 
 /* styling for games page */ 
 
-#games-hero-outer {
+.background-image-outer {
     height: 500px;
     width: 100%;
     position: relative;
 }
 
-#games-hero-image {
+#games-background-image {
     height: 500px;
     width: 100%;
     background: url(../images/hero_image_board.jpg) no-repeat center center;
@@ -250,19 +250,13 @@ footer {
 
 /* contact us page - */ 
 
-#contact-hero-outer {
-    height: 500px;
-    width: 100%;
-    position: relative;
-}
-
-#contact-hero-image {
+#booktable-background-image {
     height: 500px;
     width: 100%;
     background: url(../images/contact_dice_1920.jpg) no-repeat center center;
 }
 
-#text-contact-image {
+#text-booktable-image {
     position: absolute;
     bottom: 50%;
     right: 45%;
