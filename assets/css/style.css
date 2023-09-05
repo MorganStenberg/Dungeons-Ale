@@ -17,7 +17,7 @@ body {
 }
 
 main {
-    margin-top: 78px;
+    margin-top: 34px;
 }
 
 /* Header */
@@ -40,6 +40,7 @@ header a {
     letter-spacing: 2px;
     padding-top: 0.25rem;
     margin-left: 5px;
+    font-size: 1.5rem;
 }
 
 #menu {
@@ -75,7 +76,8 @@ nav {
     font-size: 150%;
     color:#ff5733;
     margin-right: 5px;
-    padding-top: 0.5rem;
+    margin-left: 5px;
+    padding-top: 0.25rem;
 }
 
 .active {
@@ -316,6 +318,10 @@ footer {
 
     main {
     margin-top: 41px;
+    }
+
+    #logo {
+    font-size: 1.8rem;
     }
 }
 
