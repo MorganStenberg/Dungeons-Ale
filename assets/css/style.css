@@ -85,6 +85,10 @@ nav {
     border-bottom: 1px solid #ff5733
 }
 
+#menu a:hover {
+    border-bottom: 1px solid #ff5733;
+}
+
 /* Hero image */ 
 
 #hero-outer {
