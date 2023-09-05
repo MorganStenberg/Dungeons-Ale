@@ -263,7 +263,7 @@ footer {
 #text-contact-image {
     position: absolute;
     bottom: 50%;
-    right: 50%;
+    right: 45%;
     color:#ff5733; 
     padding-left: 10px;
     font-size: 200%;
@@ -348,6 +348,10 @@ footer {
 
     main {
         margin-top: 46px;
+    }
+
+    #text-contact-image {
+        right: 50%;
     }
 }
 
