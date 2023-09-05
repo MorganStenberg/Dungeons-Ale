@@ -46,7 +46,7 @@ header a {
 #menu {
     list-style-type: none;
     letter-spacing: 2px;
-    padding-top: 0.5rem;
+    padding-top: 0.75rem;
     font-size: 115%;
     }
 
@@ -326,13 +326,13 @@ footer {
 }
 
 /*Media query for tablets and larger (768px)*/
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 768px) {
     
     nav {
         display: block;
         position: relative;
         width: fit-content;
-        padding-right: 12px;
+        margin-right: 5px;
     }
 
     #menu {
