@@ -48,6 +48,7 @@ header a {
     letter-spacing: 2px;
     padding-top: 0.75rem;
     font-size: 115%;
+    font-weight: 600;
     }
 
 #menu li {
@@ -104,6 +105,8 @@ nav {
     color:#ff5733;
     padding-left: 10px;
     font-size: 125%;
+    max-width: 75%;
+    font-weight: 600;
 }
 
 #text-hero-image h2 {
@@ -321,6 +324,11 @@ footer {
     .nav-toggle-label {
         padding-top: 0.35rem;
     }
+
+    #text-hero-image {
+        max-width: 100%;
+    }
+
 }
 
 /*Media query for tablets and larger (768px)*/
