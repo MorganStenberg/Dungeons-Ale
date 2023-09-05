@@ -17,7 +17,7 @@ body {
 }
 
 main {
-    margin-top: 34px;
+    margin-top: 35px;
 }
 
 /* Header */
@@ -317,11 +317,15 @@ footer {
 @media screen and (min-width: 378px) {
 
     main {
-    margin-top: 41px;
+    margin-top: 38px;
     }
 
     #logo {
     font-size: 1.8rem;
+    }
+
+    .nav-toggle-label {
+        padding-top: 0.35rem;
     }
 }
 
