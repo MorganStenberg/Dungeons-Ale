@@ -198,7 +198,7 @@ footer {
     padding-bottom: 10px;
 }
 
-.our-games h3 {
+#our-games-container h3 {
     padding-bottom: 10px;
     color: #3a3a3a;
     text-decoration: underline;
@@ -225,7 +225,7 @@ footer {
     text-decoration: underline;
 }
 
-#events-container {
+#events-list {
    display: flex;
    flex-flow: row wrap;
 }
@@ -236,7 +236,7 @@ footer {
     padding: 15px 10px;
     text-align: center;
     flex: 0 1 220px;
-    
+    list-style-type: none;
 }
 
 .events p {
