@@ -100,7 +100,10 @@ nav {
     color:#ff5733; 
     padding-left: 10px;
     font-size: 125%;
+}
 
+#text-hero-image h2 {
+    font-size: 200%;
 }
 
 /* Welcome and about us section */ 
@@ -260,7 +263,7 @@ footer {
 #text-contact-image {
     position: absolute;
     bottom: 50%;
-    right: 35%;
+    right: 50%;
     color:#ff5733; 
     padding-left: 10px;
     font-size: 200%;
