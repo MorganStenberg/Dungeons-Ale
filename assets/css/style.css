@@ -96,10 +96,10 @@ nav {
 
 #text-hero-image {
     position: absolute;
-    bottom: 65%;
-    right: 40%;
+    bottom: 60%;
     color:#ff5733; 
     padding-left: 10px;
+    font-size: 125%;
 
 }
 
@@ -374,6 +374,10 @@ footer {
 
     .our-games p {
         padding-top: 35px;
+    }
+
+    #text-hero-image {
+        right: 50%;
     }
 }
 
