@@ -173,7 +173,7 @@ footer {
 #games-background-image {
     height: 500px;
     width: 100%;
-    background: url(../images/hero_image_board.jpg) no-repeat center center;
+    background: url(../images/background_image_board.jpg) no-repeat center center;
 }
 
 #text-games-image {
@@ -253,7 +253,7 @@ footer {
 #booktable-background-image {
     height: 500px;
     width: 100%;
-    background: url(../images/contact_dice_1920.jpg) no-repeat center center;
+    background: url(../images/booktable_dice_1920.jpg) no-repeat center center;
 }
 
 #text-booktable-image {
