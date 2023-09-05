@@ -39,6 +39,7 @@ header a {
     text-transform: uppercase;
     letter-spacing: 2px;
     padding-top: 0.25rem;
+    margin-left: 5px;
 }
 
 #menu {
@@ -63,6 +64,7 @@ nav {
 
 #nav-toggle:checked~nav {
     display: block;
+    padding-left: 5px;
 }
 
 #nav-toggle {
