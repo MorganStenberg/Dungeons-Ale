@@ -58,7 +58,8 @@ The website will be useful for new customers who are curious about what kind of 
 - The book a table page contains a form for booking a table, where the user fills in their full name, email address and specifies the number of guest, with a maximum of 8 people. All fields are required. The form increases in size on bigger screens as well as increasing the margin to the sides to keep it centered. 
 
 ## Future features   
-- A more detailed list of the games available, implemented in a gallery form with pictures of the games. 
+- A more detailed list of the games available, implemented in a gallery form with pictures of the games.
+- Form or contact info for users to suggest games to add to the collection.  
 - A menu page showing what drinks and food is available. 
 - Form to sign up for the events, below the list of events.
 - Adding an option to sign up for newsletter while booking a table. 
@@ -96,9 +97,21 @@ The site was depoyed through GitHub pages. The steps taken to deply are as follo
 - Make sure that Deply from a branch is selected in the source menu.
 - Click save and the page will be refreshed with a link to the live project. 
 
+Live link to the project here - https://morganstenberg.github.io/Dungeons-Ale/
+
 # Credits
 
 ### Photos 
 
+Photos were taken from unsplash (link) and pixabay (link)
+- Hero image https://unsplash.com/photos/X-A-LJVAhzk
+- Games background image https://pixabay.com/photos/board-game-play-strategy-fun-933165/ 
+- Book a table background image https://pixabay.com/photos/dice-game-pawn-board-game-chance-1264058/
+
 ### Other
+
+- Navbar with toggle dropdown menu - Coding Institute LMS Love Running Walkthrough Project 
+- Form for booking a table - W3 School How to form https://www.w3schools.com/howto/howto_css_contact_form.asp 
+- Positioning in general - https://developer.mozilla.org/en-US/docs/Web/CSS/position 
+- Flex shorthand - https://developer.mozilla.org/en-US/docs/Web/CSS/flex 
 
