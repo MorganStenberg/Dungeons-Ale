@@ -10,6 +10,20 @@ The website will be useful for new customers who are curious about what kind of 
 
 # User experience
 
+- As user of the website
+    - Find out the location of the bar
+    - Learn about what kinds of games that are available
+    - Find out the opening hours
+    - Be able to book a table 
+
+- As a owner of the bar/website
+    - Create an online presence for the bar
+    - Offer information on what type of games that are available
+    - Inform customers about location and opening hours
+    - Provide an opportunity to book a table 
+    - Inform customers about upcoming events 
+
+
 # Features 
 
 # Planning and design
