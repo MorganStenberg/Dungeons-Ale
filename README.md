@@ -71,7 +71,7 @@ The website will be useful for new customers who are curious about what kind of 
 - Upcoming events consist of a list of upcoming events, with information on what games they are related to as well as information on the date and starting time. 
 - The games page is responsive, the events boxes stack vertically on smaller screens and move over to a horizontal line on bigger screens. The list of different types of games and the accompanying text move to the left and right respectively on bigger screens as well. 
 
-![Games page](documentation/screenshots/games_page.PNG)
+![Games page](documentation/screenshots/games_page_new.PNG)
 
 ### Book a table page 
 - The book a table page contains a form for booking a table, where the user fills in their full name, email address and specifies the number of guests, with a maximum of 8 people. All fields are required. The form increases in size on bigger screens as well as increasing the margin to the sides to keep it centered. Below the form is the contact information for users who have other questions. 
