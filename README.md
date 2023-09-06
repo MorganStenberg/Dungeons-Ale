@@ -10,14 +10,14 @@ The website will be useful for new customers who are curious about what kind of 
 
 # User experience
 
-## As user of the website
+### As user of the website
 
 - Find out the location of the bar
 - Learn about what kinds of games that are available
 - Find out the opening hours
 - Be able to book a table 
 
-## As a owner of the bar/website
+### As a owner of the bar/website
 
 - Create an online presence for the bar
 - Offer information on what type of games that are available
@@ -66,21 +66,39 @@ The website will be useful for new customers who are curious about what kind of 
 
 # Planning and design
 
-## Wireframes
+### Wireframes
 
 # Technologies and languages used
 
-## Languages
+### Languages
 - The languages used are HTML5 and CSS.
 
-## Technologies
+### Technologies
 - Balsamiq was used to create the wireframes. 
 - Google Fonts was used for the fonts. The font used is Raleway. 
 - Fontawesome was used for icons. The logo in the header, social media icons in the footer. 
 - TinyPNG was used to compress and optimize the images used. 
 - Git was used as version control, by pushing the code via the Gitpod terminal. 
-- Github is used as a repository for the code. 
+- GitHub is used as a repository for the code. 
 
 # Testing
 
+### Validator testing
+
+### Manual testing
+
+### Bugs
+
+# Deployment
+The site was depoyed through GitHub pages. The steps taken to deply are as follows. 
+- In the GitHub repository for the project, navigate to settings tab, then to pages on the left hand menu. 
+- Select the main branch from the dropdown menu for branch. 
+- Make sure that Deply from a branch is selected in the source menu.
+- Click save and the page will be refreshed with a link to the live project. 
+
 # Credits
+
+### Photos 
+
+### Other
+
