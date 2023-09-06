@@ -21,6 +21,7 @@ main {
 }
 
 /* Header */
+
 header {
     background-color: #ffffff;
     position: fixed;
@@ -57,6 +58,7 @@ header a {
 }
 
 /* Navbar dropdown toggle - credit to * Coding Institute LMS Love Running Walkthrough LRFX101 */ 
+
 nav {
     position: absolute;
     background-color: #ffffff;
