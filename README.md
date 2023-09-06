@@ -48,7 +48,7 @@ The website will be useful for new customers who are curious about what kind of 
 ![Navigation bar small](documentation/screenshots/navbar_small.PNG)
 
 ### Hero Image
-- The home page contains a background image with a cover text, that togheter clearly states the purpose of the business and the type of establishment it is. The image is chosen to to convey a playfullness and appeal to potential customers. 
+- The home page contains a background image with a cover text, that together clearly states the purpose of the business and what type of establishment it is. The image is chosen to to convey a playfullness and appeal to potential customers. 
 
 ![Hero image](documentation/screenshots/hero_image.PNG)
 
@@ -57,10 +57,10 @@ The website will be useful for new customers who are curious about what kind of 
 - It is made responsive to bigger screens by displaying the information in a horizontal row instead of a vertical column on screens bigger than 996px. 
 - It is separated from the rest of the content by a border line in the same color as the logo and menu. 
 
-![Footer](documentation/screenshots/footer.PNG)
+![Footer](documentation/screenshots/footer_X.PNG)
 
 
-![Footer small](documentation/screenshots/footer_small.PNG)
+![Footer small](documentation/screenshots/footer_x_small.PNG)
 
 ### Background images
 - Both the games page and the book a table page contains a background image of the same size, to offer a consistent design and make it easy for the user to navigate. 
