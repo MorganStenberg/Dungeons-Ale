@@ -6,7 +6,15 @@ The website will be useful for new customers who are curious about what kind of 
 
 ![Mockup responsive design](documentation/responsive_dungeonsale.PNG)
 
-## Index - Table of contents
+## Table of contents
+
+- [User experience](#user-experience)
+- [Features](#features)
+- [Planning and design](#planning-and-design)
+- [Technologies and languages uses](#technologies-and-languages-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 # User experience
 
@@ -55,7 +63,7 @@ The website will be useful for new customers who are curious about what kind of 
 - The games page is responsive, the events boxes stack vertically on smaller screens and move over to a horizontal line on bigger screens. The list of different type of games and the accompanying text move to the left and right respectively on bigger screens as well. 
 
 ### Book a table page 
-- The book a table page contains a form for booking a table, where the user fills in their full name, email address and specifies the number of guest, with a maximum of 8 people. All fields are required. The form increases in size on bigger screens as well as increasing the margin to the sides to keep it centered. 
+- The book a table page contains a form for booking a table, where the user fills in their full name, email address and specifies the number of guest, with a maximum of 8 people. All fields are required. The form increases in size on bigger screens as well as increasing the margin to the sides to keep it centered. Below the form is the contact information for users who have other questions. 
 
 ## Future features   
 - A more detailed list of the games available, implemented in a gallery form with pictures of the games.
@@ -69,6 +77,8 @@ The website will be useful for new customers who are curious about what kind of 
 The site was planned and designed according to the user stories and wireframes below. 
 With images chosen to allude to board gaming, to be inviting to the potential users/customers. The color scheme of #ff5733 and #3a3a3a were chosen also to be inviting and warm. With the charcoal/black color to most text for good contrast and orange color for warmth and playfullness. 
 
+The font chosen is Raleway from Google fonts, it was chosen as it is relatively simple and not to complex, but still conveying a feeling suitable with board games. Especially based on the way "W" is shaped, giving a hint of a medieval font, in line with the role playing theme in the bars name.  
+
 Some changes were made to the original design in the wireframes, they are as follows.
 - Contact page were changed to book a table, to simplify and clarify the purpose of the page. With advice from my mentor. 
 - On the games page, the form for suggesting a game to add to the collection was removed. To be able to finish the project in time. The form for suggestion of games was added to future features instead. 
@@ -81,18 +91,19 @@ Home page ![mockup home page](documentation/wireframes/Home%20page.png)
 Games page ![mockup games page](documentation/wireframes/Games%20page.png)
 
 Book a table page ![mockup book a table page](documentation/wireframes/Book%20a%20table.png)
+
 # Technologies and languages used
 
 ### Languages
 - The languages used are HTML5 and CSS.
 
 ### Technologies
-- Balsamiq was used to create the wireframes. 
-- Google Fonts was used for the fonts. The font used is Raleway. 
-- Fontawesome was used for icons. The logo in the header, social media icons in the footer. 
-- TinyPNG was used to compress and optimize the images used. 
+- [Balsamiq](https://balsamiq.com/) was used to create the wireframes. 
+- [Google Fonts](https://fonts.google.com/) was used for the fonts. The font used is Raleway. 
+- [Fontawesome](https://fontawesome.com/) was used for icons. The logo in the header, social media icons in the footer. 
+- [TinyPNG](https://tinypng.com/) was used to compress and optimize the images used. 
 - Git was used as version control, by pushing the code via the Gitpod terminal. 
-- GitHub is used as a repository for the code. 
+- [GitHub](https://github.com/) is used as a repository for the code. 
 
 # Testing
 
@@ -115,15 +126,15 @@ Live link to the project here - https://morganstenberg.github.io/Dungeons-Ale/
 
 ### Photos 
 
-Photos were taken from unsplash (link) and pixabay (link)
-- Hero image https://unsplash.com/photos/X-A-LJVAhzk
-- Games background image https://pixabay.com/photos/board-game-play-strategy-fun-933165/ 
-- Book a table background image https://pixabay.com/photos/dice-game-pawn-board-game-chance-1264058/
+Photos were taken from [Unsplash](https://unsplash.com/) and [Pixabay](https://pixabay.com/)
+- [Hero image](https://unsplash.com/photos/X-A-LJVAhzk)
+- [Games background image](https://pixabay.com/photos/board-game-play-strategy-fun-933165/)
+- [Book a table background image](https://pixabay.com/photos/dice-game-pawn-board-game-chance-1264058/)
 
 ### Other
 
 - Navbar with toggle dropdown menu - Coding Institute LMS Love Running Walkthrough Project 
-- Form for booking a table - W3 School How to form https://www.w3schools.com/howto/howto_css_contact_form.asp 
-- Positioning in general - https://developer.mozilla.org/en-US/docs/Web/CSS/position 
-- Flex shorthand - https://developer.mozilla.org/en-US/docs/Web/CSS/flex 
+- Form for booking a table - [W3 School How to form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
+- Positioning in general - [MDN CSS - Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- Flex shorthand - [MDN CSS - Flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
 
