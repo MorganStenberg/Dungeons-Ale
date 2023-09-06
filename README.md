@@ -8,7 +8,7 @@ The website will be useful for new customers who are curious about what kind of 
 
 ## Index - Table of contents
 
-# User goals and stories
+# User experience
 
 # Features 
 
@@ -16,7 +16,18 @@ The website will be useful for new customers who are curious about what kind of 
 
 ## Wireframes
 
-# Technologies used
+# Technologies and languages used
+
+## Languages
+- The languages used are HTML5 and CSS.
+
+## Technologies
+- Balsamiq was used to create the wireframes. 
+- Google Fonts was used for the fonts. The font used is Raleway. 
+- Fontawesome was used for icons. The logo in the header, social media icons in the footer. 
+- TinyPNG was used to compress and optimize the images used. 
+- Git was used as version control, by pushing the code via the Gitpod terminal. 
+- Github is used as a repository for the code. 
 
 # Testing
 
