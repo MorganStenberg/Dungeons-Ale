@@ -66,9 +66,21 @@ The website will be useful for new customers who are curious about what kind of 
 - A call to action and link to book a table on the home page, below the hero image. And a link to see the menu.
 
 # Planning and design
+The site was planned and designed according to the user stories and wireframes below. 
+With images chosen to allude to board gaming, to be inviting to the potential users/customers. The color scheme of #ff5733 and #3a3a3a were chosen also to be inviting and warm. With the charcoal/black color to most text for good contrast and orange color for warmth and playfullness. 
+
+Some changes were made to the original design in the wireframes, they are as follows.
+- Contact page were changed to book a table, to simplify and clarify the purpose of the page. With advice from my mentor. 
+- On the games page, the form for suggesting a game to add to the collection was removed. To be able to finish the project in time. The form for suggestion of games was added to future features instead. 
+- The events are more vertically spread out on tablet and mobile screen size. 
+
 
 ### Wireframes
+Home page ![mockup home page](documentation/wireframes/Home%20page.png)
 
+Games page ![mockup games page](documentation/wireframes/Games%20page.png)
+
+Book a table page ![mockup book a table page](documentation/wireframes/Book%20a%20table.png)
 # Technologies and languages used
 
 ### Languages
