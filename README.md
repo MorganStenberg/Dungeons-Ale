@@ -122,11 +122,16 @@ Book a table page ![mockup book a table page](documentation/wireframes/Book%20a%
 
 ### Validator testing
 
-HTML validator
+- HTML validator was run and small formatting errors were found and fixed. At final stage no errors or warnings on all three pages. 
 
-CSS validator
+![HTML validator](documentation/screenshots/html_validator_home.PNG)
 
-Google Lighthouse for performance
+
+- CSS validator was run and no errors were found. Only a warning regarding the imported fonts from Google Fonts. 
+
+![CSS validator](documentation/screenshots/css_validator.PNG)
+
+- Google Lighthouse for performance was used in the end of the project, to help identify performance issued. Especially the hero image on the home page was cropped to increase performance. 
 
 ### Manual testing
 
@@ -144,6 +149,11 @@ The site and links have all been tested on different browsers
 - Mozilla Firefox version 117.0
 
 ### Bugs
+
+One was reported when a friend was helping out and testing the site externally, but it has not been possible to recreate it since. This was on a desktop with Chrome as browser. Image of it is included below. 
+![bug home page](documentation/screenshots/bug_games.png)
+
+Otherwise no bugs have been found during building and testing of the site.  
 
 # Deployment
 The site was depoyed through GitHub pages. The steps taken to deply are as follows. 
