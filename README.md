@@ -39,19 +39,28 @@ The website will be useful for new customers who are curious about what kind of 
 ## Existing features
 
 ### Navigation bar
-(placeholder for screenshot)
+
 - The navigation bar contains a logo to the left, picturing a door to a dungeon, the name of the bar and on smaller screens (up to 768px) a "burger" menu to the right. Clicking the the "burger" menu toggles a menu of links to the home page, games page and book a table page. To make the navigation bar responsive, on screens bigger than 768px the links are placed by convention to the right for the user. The logo and menu links also increases in size as the screensize increases. The navigation bar is visible on all three pages.
 - To show when a user is on a page, the page link underlines then the page is active. To indicate where the user are on the site. 
 - When the mouse hovers over a page link, the page link underlines to indicate to the user that it is a link. 
 
+![Navigation bar](documentation/screenshots/navbar.PNG)
+![Navigation bar small](documentation/screenshots/navbar_small.PNG)
+
 ### Hero Image
-(placeholder for screenshot)
 - The home page contains a background image with a cover text, that togheter clearly states the purpose of the business and the type of establishment it is. The image is chosen to to convey a playfullness and appeal to potential customers. 
 
+![Hero image](documentation/screenshots/hero_image.PNG)
+
 ### Footer
-(placeholder for screenshot)
 - The footer is visible on all three pages. It contains three parts of information regarding opening hours, address and links to social media via icons. 
 - It is made responsive to bigger screens by displaying the information in a horizontal row instead of a vertical column on screens bigger than 996px. 
+- It is separated from the rest of the content by a border line in the same color as the logo and menu. 
+
+![Footer](documentation/screenshots/footer.PNG)
+
+
+![Footer small](documentation/screenshots/footer_small.PNG)
 
 ### Background images
 - Both the games page and the book a table page contains a background image of the same size, to offer a consistent design and make it easy for the user to navigate. 
@@ -62,8 +71,12 @@ The website will be useful for new customers who are curious about what kind of 
 - Uppcoming events consist of a list of uppcoming events, with information on what games they are related to as well as information on the date and starting time. 
 - The games page is responsive, the events boxes stack vertically on smaller screens and move over to a horizontal line on bigger screens. The list of different type of games and the accompanying text move to the left and right respectively on bigger screens as well. 
 
+![Games page](documentation/screenshots/games_page.PNG)
+
 ### Book a table page 
 - The book a table page contains a form for booking a table, where the user fills in their full name, email address and specifies the number of guest, with a maximum of 8 people. All fields are required. The form increases in size on bigger screens as well as increasing the margin to the sides to keep it centered. Below the form is the contact information for users who have other questions. 
+
+![book a table page](documentation/screenshots/book_table_small.PNG)
 
 ## Future features   
 - A more detailed list of the games available, implemented in a gallery form with pictures of the games.
@@ -109,7 +122,26 @@ Book a table page ![mockup book a table page](documentation/wireframes/Book%20a%
 
 ### Validator testing
 
+HTML validator
+
+CSS validator
+
+Google Lighthouse for performance
+
 ### Manual testing
+
+All the links on all pages have been checked and are in working order. As well as the form for booking a table. 
+
+- Navigation links in navigation bar
+- Footer - social media links 
+- Header logo with link to home page
+- Form input works correctly to CI form dump. 
+
+The site and links have all been tested on different browsers
+
+- Microsoft Edge version 116.0.1938.69 
+- Chrome version 116.0.5845.179 
+- Mozilla Firefox version 117.0
 
 ### Bugs
 
